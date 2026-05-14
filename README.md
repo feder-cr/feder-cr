@@ -1,1 +1,1 @@
-[![Check out feder-cr's profile on stardev.io](https://stardev.io/developers/feder-cr/badge/languages/country.svg)](https://stardev.io/developers/feder-cr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feder-cr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
