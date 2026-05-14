@@ -6,3 +6,9 @@
   <img src="https://img.shields.io/badge/Python-main-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-Projects-8A2BE2" />
 </p>
+
+<p align="center">
+  <a href="https://ghstats.dev/">
+    <img src="https://ghstats.dev/card/feder-cr?theme=github_dark" alt="Federico's GitHub stats" />
+  </a>
+</p>
