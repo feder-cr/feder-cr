@@ -2,21 +2,25 @@
 
 ## Projects
 
-**[invisible_playwright](https://github.com/feder-cr/invisible_playwright)** - Undetected
-Playwright automation on a Firefox patched at the C++ source level, so the fingerprint is
-produced by the engine instead of injected into the page. On PyPI.
+**[Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)**
+[![stars](https://img.shields.io/github/stars/feder-cr/Jobs_Applier_AI_Agent_AIHawk?style=social)](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk/stargazers) -
+The first AI web agent that applies to jobs for you: it reads a posting, writes a resume
+and a cover letter tailored to it, and sends the application. Installed and used by more
+than 2M people in 6 months, until LinkedIn sent me a cease and desist to have it shut
+down 😂 Apparently they can use AI to screen our resumes, but the rest of us are supposed
+to apply to jobs by hand, one by one.
 
-**[invisible_firefox](https://github.com/feder-cr/invisible_firefox)** - An open-source
-anti-detect browser: many identities, one patched Firefox, no subscription.
+**[invisible_playwright](https://github.com/feder-cr/invisible_playwright)**
+[![stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)](https://github.com/feder-cr/invisible_playwright/stargazers) -
+Undetected Playwright automation on a Firefox patched at the C++ source level, so the
+fingerprint is produced by the engine instead of injected into the page. On PyPI.
 
 **[invisible_core](https://github.com/feder-cr/invisible_core)** - The pure-config engine
-(seed to fingerprint to prefs) both of the above run on. Zero Playwright dependency.
+(seed to fingerprint to prefs) it runs on, past 100k uses a day and growing fast. Zero
+Playwright dependency.
 
 **[firefox_antidetect_patch](https://github.com/feder-cr/firefox_antidetect_patch)** - The
 patched Firefox source itself, and the binaries built from it.
-
-Notes on how browser fingerprinting actually works, written one surface at a time:
-**[feder-cr.github.io/invisible_playwright](https://feder-cr.github.io/invisible_playwright/)**.
 
 <p>
   <a href="https://github.com/feder-cr">
