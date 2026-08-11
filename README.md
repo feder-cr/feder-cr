@@ -14,12 +14,6 @@ Undetected Playwright automation on a Firefox patched at the C++ source level, s
 fingerprint is produced by the engine instead of injected into the page. More than 100k
 uses a day and growing fast.
 
-**[invisible_core](https://github.com/feder-cr/invisible_core)** - The engine underneath.
-Give it a seed and it derives a whole consistent identity out of it, screen and GPU and
-fonts and timezone and locale, then turns that into the Firefox prefs the patched binary
-reads, so the same seed always gives you the same browser. It also handles the binary
-download, the proxy and the geolocation. Zero Playwright dependency.
-
 <p>
   <a href="https://github.com/feder-cr">
     <img src="https://github-readme-stats-one-rosy.vercel.app/api?username=feder-cr&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" />
