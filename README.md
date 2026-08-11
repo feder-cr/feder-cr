@@ -2,20 +2,23 @@
 
 ## Projects
 
-**[Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** ⭐ 30.1k -
+**[Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** 30.1k ⭐ -
 The first AI web agent that applies to jobs for you: it reads a posting, writes a resume
 and a cover letter tailored to it, and sends the application. Installed and used by more
 than 2M people in 6 months, until LinkedIn sent me a cease and desist to have it shut
-down 😂 Apparently they can use AI to screen our resumes, but the rest of us are supposed
+down. Apparently they can use AI to screen our resumes, but the rest of us are supposed
 to apply to jobs by hand, one by one.
 
-**[invisible_playwright](https://github.com/feder-cr/invisible_playwright)** ⭐ 1.9k -
+**[invisible_playwright](https://github.com/feder-cr/invisible_playwright)** 1.9k ⭐ -
 Undetected Playwright automation on a Firefox patched at the C++ source level, so the
-fingerprint is produced by the engine instead of injected into the page. On PyPI.
+fingerprint is produced by the engine instead of injected into the page. On PyPI, past
+100k uses a day and growing fast.
 
-**[invisible_core](https://github.com/feder-cr/invisible_core)** - The pure-config engine
-(seed to fingerprint to prefs) it runs on, past 100k uses a day and growing fast. Zero
-Playwright dependency.
+**[invisible_core](https://github.com/feder-cr/invisible_core)** - The engine underneath.
+Give it a seed and it derives a whole consistent identity out of it, screen and GPU and
+fonts and timezone and locale, then turns that into the Firefox prefs the patched binary
+reads, so the same seed always gives you the same browser. It also handles the binary
+download, the proxy and the geolocation. Zero Playwright dependency.
 
 **[firefox_antidetect_patch](https://github.com/feder-cr/firefox_antidetect_patch)** - The
 patched Firefox source itself, and the binaries built from it.
