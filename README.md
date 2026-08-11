@@ -13,10 +13,3 @@ to apply to jobs by hand, one by one.
 Undetected Playwright automation on a Firefox patched at the C++ source level, so the
 fingerprint is produced by the engine instead of injected into the page. More than 100k
 uses a day and growing fast.
-
-<p>
-  <a href="https://github.com/feder-cr">
-    <img src="https://github-readme-stats-one-rosy.vercel.app/api?username=feder-cr&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" />
-  </a>
-
-  </p>
