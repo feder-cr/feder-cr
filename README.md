@@ -2,7 +2,7 @@
 
 ## Projects
 
-**[Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** 30.1k ⭐ -
+**[AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** 30.1k ⭐ -
 The first AI web agent that applies to jobs for you: it reads a posting, writes a resume
 and a cover letter tailored to it, and sends the application. Installed and used by more
 than 2M people in 6 months, until LinkedIn sent me a cease and desist to have it shut
