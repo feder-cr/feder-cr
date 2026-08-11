@@ -11,17 +11,14 @@ to apply to jobs by hand, one by one.
 
 **[invisible_playwright](https://github.com/feder-cr/invisible_playwright)** 1.9k ⭐ -
 Undetected Playwright automation on a Firefox patched at the C++ source level, so the
-fingerprint is produced by the engine instead of injected into the page. On PyPI, past
-100k uses a day and growing fast.
+fingerprint is produced by the engine instead of injected into the page. More than 100k
+uses a day and growing fast.
 
 **[invisible_core](https://github.com/feder-cr/invisible_core)** - The engine underneath.
 Give it a seed and it derives a whole consistent identity out of it, screen and GPU and
 fonts and timezone and locale, then turns that into the Firefox prefs the patched binary
 reads, so the same seed always gives you the same browser. It also handles the binary
 download, the proxy and the geolocation. Zero Playwright dependency.
-
-**[firefox_antidetect_patch](https://github.com/feder-cr/firefox_antidetect_patch)** - The
-patched Firefox source itself, and the binaries built from it.
 
 <p>
   <a href="https://github.com/feder-cr">
