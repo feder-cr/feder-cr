@@ -1,4 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Federico%20Elia-0A66C2?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federico-elia-5199951b6)
+ABjatyX6DVQean5HRfnKVVZUgNYntHc92i3z1uBPpump
 
 ## Projects
 
