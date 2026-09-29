@@ -2,12 +2,10 @@
 
 ## Projects
 
-**[AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** 30.1k ⭐ -
-The first AI web agent that applies to jobs for you: it reads a posting, writes a resume
-and a cover letter tailored to it, and sends the application. Installed and used by more
-than 2M people in 6 months, until LinkedIn sent me a cease and desist to have it shut
-down. Apparently they can use AI to screen our resumes, but the rest of us are supposed
-to apply to jobs by hand, one by one.
+**[invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp)** 31.6k ⭐ -
+An MCP server that gives Claude Code, Codex or Gemini CLI a real browser on the same patched
+Firefox, so an AI agent can browse, click and read the pages that block ordinary automation.
+It also runs on its own, with a web UI: chat on the left, the live browser on the right.
 
 **[invisible_playwright](https://github.com/feder-cr/invisible_playwright)** 2.9k ⭐ -
 Undetected Playwright automation on a Firefox patched at the C++ source level, so the
