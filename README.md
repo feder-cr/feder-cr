@@ -6,6 +6,8 @@
 An MCP server that gives Claude Code, Codex or Gemini CLI a real browser on the same patched
 Firefox, so an AI agent can browse, click and read the pages that block ordinary automation.
 It also runs on its own, with a web UI: chat on the left, the live browser on the right.
+It started as AIHawk, the AI agent that applied to jobs for more than 2M people in 6 months,
+until LinkedIn sent me a cease and desist.
 
 **[invisible_playwright](https://github.com/feder-cr/invisible_playwright)** 2.9k ⭐ -
 Undetected Playwright automation on a Firefox patched at the C++ source level, so the
