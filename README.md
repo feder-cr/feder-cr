@@ -2,13 +2,15 @@
 
 ## Projects
 
-**[dots](https://github.com/feder-cr/dots)** 31.8k ⭐ -
-AI agents that each own a computer: a virtual machine on your PC with a desktop, a shell,
-files, memory and skills that stay from one task to the next, and the same patched Firefox
-as their browser. You set what each one may do and answer its approvals from a web UI, the
-command line or Telegram, with any model on OpenRouter.
+**[invisible_dots](https://github.com/feder-cr/invisible_dots)** 31.8k ⭐ -
+An open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and
+Claude Cowork: AI agents, each with a virtual machine on your PC with a desktop, a shell, files,
+memory and skills that stay, invisible to anti-bots. You set what each one may do and answer its
+approvals from a web UI, the command line or Telegram, with any model on OpenRouter.
 It started as AIHawk, the AI agent that applied to jobs for more than 2M people in 6 months,
 until LinkedIn sent me a cease and desist.
+
+<a href="https://github.com/feder-cr/invisible_dots"><img alt="A Dot asked in its chat for today's top repository on GitHub Trending: its Firefox opens the list and the repository on its own computer, and the chat gives the answer." src="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero.gif" width="100%"></a>
 
 **[invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp)** 2.6k ⭐ -
 An MCP server that gives Claude Code, Codex or Gemini CLI a real browser on the same patched
