@@ -10,7 +10,10 @@ approvals from a web UI, the command line or Telegram, with any model on OpenRou
 It started as AIHawk, the AI agent that applied to jobs for more than 2M people in 6 months,
 until LinkedIn sent me a cease and desist.
 
-<a href="https://github.com/feder-cr/invisible_dots"><img alt="A Dot asked in its chat for today's top repository on GitHub Trending: its Firefox opens the list and the repository on its own computer, and the chat gives the answer." src="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero.gif" width="100%"></a>
+<a href="https://github.com/feder-cr/invisible_dots"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-dark.gif">
+  <img alt="invisible_dots: the four angry characters, then what a Dot does: a task asked once in its chat, done on its own computer, an approval before the daily automation, and the list on Telegram every morning." src="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-light.gif" width="100%">
+</picture></a>
 
 **[invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp)** 2.6k ⭐ -
 An MCP server that gives Claude Code, Codex or Gemini CLI a real browser on the same patched
