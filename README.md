@@ -11,6 +11,8 @@ It started as AIHawk, the AI agent that applied to jobs for more than 2M people 
 until LinkedIn sent me a cease and desist.
 
 <a href="https://github.com/feder-cr/invisible_dots"><picture>
+  <source media="(max-width: 700px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-mobile-dark.gif">
+  <source media="(max-width: 700px)" srcset="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-mobile-light.gif">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-dark.gif">
   <img alt="invisible_dots: the four angry characters, then what a Dot does: a task asked once in its chat, done on its own computer, an approval before the daily automation, and the list on Telegram every morning." src="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-light.gif" width="100%">
 </picture></a>
