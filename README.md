@@ -3,19 +3,11 @@
 ## Projects
 
 **[invisible_dots](https://github.com/feder-cr/invisible_dots)** 31.8k ⭐ -
-An open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and
-Claude Cowork: AI agents, each with a virtual machine on your PC with a desktop, a shell, files,
+AI agents, each with a virtual machine on your PC with a desktop, a shell, files,
 memory and skills that stay, invisible to anti-bots. You set what each one may do and answer its
 approvals from a web UI, the command line or Telegram, with any model on OpenRouter.
 It started as AIHawk, the AI agent that applied to jobs for more than 2M people in 6 months,
 until LinkedIn sent me a cease and desist.
-
-<picture>
-  <source media="(max-width: 1239px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-mobile-dark.gif">
-  <source media="(max-width: 1239px)" srcset="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-mobile-light.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-dark.gif">
-  <img alt="invisible_dots: the four angry characters, then what a Dot does: a job asked once in its chat, done on a computer of its own with a terminal, files and a browser, written down as a skill, approved before it repeats, and reported on Telegram every month." src="https://raw.githubusercontent.com/feder-cr/invisible_dots/main/docs/images/hero-light.gif" width="100%">
-</picture>
 
 **[invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp)** 2.6k ⭐ -
 An MCP server that gives Claude Code, Codex or Gemini CLI a real browser on the same patched
@@ -37,6 +29,5 @@ import, keep the script.
 
 **[jevos](https://github.com/feder-cr/jev)** 1.2k ⭐ -
 Yes/no decisions on a laptop CPU in 50 to 220 ms: send a text and a question, get back the
-probability that the answer is yes, with no text generated. An open-source alternative to
-TypeSafe's Jev that speaks the same API and runs on your machine, built with
+probability that the answer is yes, with no text generated. Built with
 [Loris Salsi](https://github.com/LosaLosSantos).
