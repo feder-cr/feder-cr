@@ -3,7 +3,8 @@
 ## Projects
 
 **[invisible_dots](https://github.com/feder-cr/invisible_dots)** 31.8k ⭐ -
-AI agents, each with a virtual machine on your PC with a desktop, a shell, files,
+An open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and
+Claude Cowork: AI agents, each with a virtual machine on your PC with a desktop, a shell, files,
 memory and skills that stay, invisible to anti-bots. You set what each one may do and answer its
 approvals from a web UI, the command line or Telegram, with any model on OpenRouter.
 It started as AIHawk, the AI agent that applied to jobs for more than 2M people in 6 months,
@@ -29,5 +30,6 @@ import, keep the script.
 
 **[jevos](https://github.com/feder-cr/jev)** 1.2k ⭐ -
 Yes/no decisions on a laptop CPU in 50 to 220 ms: send a text and a question, get back the
-probability that the answer is yes, with no text generated. Built with
+probability that the answer is yes, with no text generated. An open-source alternative to
+TypeSafe's Jev that speaks the same API and runs on your machine, built with
 [Loris Salsi](https://github.com/LosaLosSantos).
