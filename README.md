@@ -2,7 +2,7 @@
 
 ## Projects
 
-**[invisible_dots](https://github.com/feder-cr/invisible_dots)** 41 ⭐ -
+**[Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk)** 32.4k ⭐ -
 An open-source, self-hosted alternative to OpenAI Dots, Meta Muse, Grok Bot, Manus Cue and
 Claude Cowork: AI agents, each with a virtual machine on your PC with a desktop, a shell, files,
 memory and skills that stay, invisible to anti-bots. You set what each one may do and answer its
